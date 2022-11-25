@@ -13,7 +13,7 @@ const Staking = () => {
             <div className="divider" />
 
             <p>
-              You're basically predicting whether the market provided goes
+              You&apos;re basically predicting whether the market provided goes
               higher, lower, stays the same or rug pulls depending on your
               desired profiy margin.
               <br />
@@ -28,7 +28,7 @@ const Staking = () => {
             <div className="divider" />
 
             <p>
-              <span>1</span> Open the "Stake" page
+              <span>1</span> Open the &quot;Stake&quot; page
             </p>
             <p>
               <span>2</span> Select the desired profit margin (e.g 2x,5x or 10x)
@@ -52,8 +52,9 @@ const Staking = () => {
           <p>
             The ones who understand money will always take finacial risks with
             crazy profit margins, <br />
-            we figured if you're going to stake regardless, we'd better provide
-            a platform where you actually have a chance at winning.{" "}
+            we figured if you&apos;re going to stake regardless, we&apos;d
+            better provide a platform where you actually have a chance at
+            winning.{" "}
           </p>
           <h4>So why not steam?</h4>
         </div>
